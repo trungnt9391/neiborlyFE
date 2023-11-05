@@ -13,7 +13,7 @@ API_VERSION = 'v1'
 #-------- Azure constants
 
 # API_URL format: "https://[FUNCTION_APP_NAME_GOES_HERE].azurewebsites.net"
-API_URL = "https://udacity2functionapp.azurewebsites.net/api/"
-
+API_URL = "https://trungnt69functionapp.azurewebsites.net/api/"
+https://trungnt69functionapp.azurewebsites.net/api/
 # for local host if Azure functions served locally
 #API_URL = "http://localhost:7071/api"
